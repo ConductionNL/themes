@@ -1,0 +1,17 @@
+{
+  "utrecht": {
+    "button": {
+      "background-color": { "value": "{zoetermeer.color.blue.100.value}" },
+      "color": { "value": "{zoetermeer.color.white.100.value}" },
+      "border-width": { "value": "0" },
+      "border-radius": { "value": "0" },
+      "padding": { "value": ".4em 1em" },
+      "font-size": { "value": "1.25em" },
+      "line-height": { "value": "1.3em" },
+      "font-weight": { "value": "bold" },
+      "hover": {
+        "text-decoration": { "value": "underline" }
+      }
+    }
+  }
+}

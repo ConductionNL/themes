@@ -34,6 +34,9 @@ import '@nl-design-system-unstable/westervoort-design-tokens/src/font';
 import '@nl-design-system-unstable/zevenaar-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/zevenaar-design-tokens/src/font';
 import '@nl-design-system-unstable/zwolle-design-tokens/dist/index.css';
+// Zoetermeer
+import '@nl-design-system-unstable/zoetermeer-design-tokens/dist/index.css';
+
 import '@utrecht/design-tokens/dist/theme/index.css';
 import '@gemeente-denhaag/design-tokens-components/dist/theme/index.css';
 
@@ -79,6 +82,7 @@ const themes = [
   'Westervoort',
   'Zevenaar',
   'Zwolle',
+  'Zoetermeer',
 ].sort();
 
 const flatten = (a, b) => [...a, ...b];

@@ -1,0 +1,11 @@
+{
+  "utrecht": {
+    "heading-2": {
+      "padding-bottom": { "value": "4%" },
+      "border-bottom": { "value": "1px dotted {zoetermeer.color.grey.100.value}"},
+      "font-weight": { "value": "normal" },
+      "font-size": { "value": "1.5em" },
+      "color": { "value": "{zoetermeer.color.blue.100.value}" }
+    }
+  }
+}

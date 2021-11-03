@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{almere.color.grey.20.value}" },
+      "color": { "value": "{almere.color.grey.100.value}" },
+      "padding-block-start": { "value": "70px" }
+    }
+  }
+}

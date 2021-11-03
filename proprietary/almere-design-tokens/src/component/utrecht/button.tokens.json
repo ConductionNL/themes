@@ -1,13 +1,38 @@
 {
-  "almere": {
+  "utrecht": {
     "button": {
-      "background-color": {
-        "value": "hsl(0, 0, 100%)"
+      "background-color": { "value": "{almere.color.blue.40.value}" },
+      "border-width": { "value": "0" },
+      "border-radius": { "value": "0" },
+      "color": { "value": "{almere.color.grey.100.value}" },
+      "font-size": { "value": "16px" },
+      "line-height": { "value": "26px" },
+      "padding-block-end": { "value": "6px" },
+      "padding-block-start": { "value": "6px" },
+      "padding-inline-end": { "value": "30px" },
+      "padding-inline-start": { "value": "30px" },
+      "hover": {
+        "background-color": { "value": "{almere.color.blue.25.value}" },
+        "color": { "value": "{almere.color.grey.100.value}" }
       },
-      "color": {
-        "value": "hsl(0, 0, 0%)"
+      "focus": {
+        "background-color": { "value": "{almere.color.blue.25.value}" },
+        "color": { "value": "{almere.color.grey.100.value}" }
+      },
+      "secondary-action": {
+        "border-width": { "value": "2px" },
+        "background-color": { "value": "{almere.color.grey.100.value}" },
+        "color": { "value": "{almere.color.blue.40.value}" },
+        "border-color": { "value": "{almere.color.blue.40.value}" },
+        "focus": {
+          "background-color": { "value": "{almere.color.blue.40.value}" },
+          "color": { "value": "{almere.color.grey.100.value}" }
+        },
+        "hover": {
+          "background-color": { "value": "{almere.color.blue.40.value}" },
+          "color": { "value": "{almere.color.grey.100.value}" }
+        }
       }
     }
   }
 }
-

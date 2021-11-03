@@ -7,6 +7,8 @@
     "@utrecht/button": true,
     "@utrecht/heading-2": true,
     "@utrecht/page-header": true,
-    "@utrecht/page-footer": true
+    "@utrecht/page-footer": true,
+    "@utrecht/document": true,
+    "@utrecht/paragraph": true
   }
 }

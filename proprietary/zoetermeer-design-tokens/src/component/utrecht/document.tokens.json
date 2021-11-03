@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "document": {
+      "color": { "value": "{zoetermeer.color.white.100.value}" },
+      "font-size": { "value": "14px" },
+      "line-height": { "value": "1.42857143" }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "almere": {
+    "body": {
+      "background-color": { "value":  "hsl(0, 0, 100%)"},
+      "color": { "value": "hsl(0, 0, 0%)"},
+      "font-family": {"value": "din, Verdana, Helvetica, Arial, sans-serif"},
+      "font-size" : {"value":"18px"},
+      "line-height":{"value":"25.7167px"},
+      "margin-bottom": {"value": "0px"},
+      "margin-left": {"value":"0px"},
+      "margin-right": {"value": "0px"},
+      "margin-top": {"value": "0px"},
+      "min-width": {"value":"320px"},
+      "padding-bottom":{"value":"0px"},
+      "padding-left": {"value": "0px"},
+      "padding-right": {"value":"0px"},
+      "padding-top": {"value": "0px"}
+    }
+  }
+}
+
+

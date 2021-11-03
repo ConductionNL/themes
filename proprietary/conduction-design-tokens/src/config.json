@@ -1,0 +1,8 @@
+{
+  "fullName": "conduction design tokens",
+  "name": "conduction",
+  "prefix": "conduction",
+  "components": {
+    "@Conduction/button": true
+  }
+}

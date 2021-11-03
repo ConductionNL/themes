@@ -1,0 +1,12 @@
+{
+  "zuid-drecht": {
+    "action": {
+      "primary": {
+        "color": { "value": "#00A03C" }
+      },
+      "secondary": {
+        "color": { "value": "#EC0000" }
+      }
+    }
+  }
+}

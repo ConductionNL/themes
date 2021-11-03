@@ -1,0 +1,26 @@
+{
+  "conduction": {
+    "color": {
+      "blue": {
+        "50": {
+          "value": "#4376FC"
+        }
+      },
+      "white": {
+        "value": "#ffffff"
+      },
+      "yellow": {
+        "10": {
+          "value": "#FAB801"
+        }
+      },
+      "grey": {
+        "50": {
+          "value": "#F4F5F9"
+        }
+      }
+    }
+  }
+
+
+

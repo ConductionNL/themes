@@ -5,6 +5,22 @@
   "components": {
     "@utrecht/button": true,
     "@utrecht/body": true,
-    "@utrecht/header": true
+    "@utrecht/form-field": true,
+    "@utrecht/form-input": true,
+    "@utrecht/form-select": true,
+    "@utrecht/header": true,
+    "@utrecht/heading": true,
+    "@utrecht/heading1": true,
+    "@utrecht/heading2": true,
+    "@utrecht/heading3": true,
+    "@utrecht/heading4": true,
+    "@utrecht/heading5": true,
+    "@utrecht/link": true,
+    "@utrecht/ordered": true,
+    "@utrecht/page-footer": true,
+    "@utrecht/paragraph": true,
+    "@utrecht/table": true,
+    "@utrecht/textarea": true,
+    "@utrecht/textbox": true
   }
 }

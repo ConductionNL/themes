@@ -1,9 +1,0 @@
-{
-  "conduction": {
-    "button": {
-      "background-color": { "value":  "hsl(0, 0, 100%)"},
-      "color": { "value": "hsl(0, 0, 0%)"}
-    }
-  }
-}
-

@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "heading-2": {
-      "color": { "value": "{almere.color.black.30.value}" },
+      "color": { "value": "{almere.color.black.value}" },
       "font-size": { "value": "2.25rem" },
       "margin-block-end": { "value": "0.5rem" }
     }

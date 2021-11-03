@@ -2,62 +2,47 @@
   "nijmegen": {
     "color": {
       "green": {
-        "20": {
-          "value": "#17564a"
-        },
-        "22": {
-          "value": "#006f5a"
-        },
         "25": {
           "value": "#0e6150"
         },
         "30": {
           "value": "#157c68"
-        },
-        "32": {
-          "value": "#00a284"
+        }
+      },
+      "blue": {
+        "30": {
+          "value": "#0092EF"
         },
         "40": {
-          "value": "#30a08b"
+          "value": "#40C4FF"
         }
       },
       "red": {
         "20": { "value": "#580518" },
-        "30": { "value": "#a80a2d" }
+        "30": { "value": "#a80a2d" },
+        "22": { "value": "#890825" }
       },
       "grey": {
         "10": {
           "value": "#212121"
         },
         "15": {
-          "value": "#212529"
+          "value": "#2D2D2D"
         },
         "20": {
           "value": "#3a3a3a"
         },
         "35": {
-          "value": "#585858"
+          "value": "#767676"
         },
         "40": {
-          "value": "#6b6b6b"
+          "value": "#6C757D"
         },
         "50": {
-          "value": "#7b7b7b"
-        },
-        "70": {
-          "value": "#ababab"
-        },
-        "85": {
-          "value": "#ced4da"
-        },
-        "85b": {
-          "value": "#dadada"
-        },
-        "95": {
-          "value": "#efefef"
+          "value": "#000000"
         },
         "100": {
-          "value": "#ffffff"
+          "value": "#FFFFFF"
         }
       },
       "feedback-red": {

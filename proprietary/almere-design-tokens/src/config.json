@@ -1,0 +1,10 @@
+{
+  "fullName": "almere design tokens",
+  "name": "almere",
+  "prefix": "almere",
+  "components": {
+    "@utrecht/button": true,
+    "@utrecht/body": true,
+    "@utrecht/header": true
+  }
+}

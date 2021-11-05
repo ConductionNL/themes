@@ -1,8 +1,0 @@
-{
-  "utrecht": {
-    "button": {
-      "background-color": { "value": "{example.color.blue.20.value}" },
-      "color": { "value": "{example.color.grey.100.value}" }
-    }
-  }
-}

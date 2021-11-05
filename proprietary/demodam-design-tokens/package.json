@@ -4,7 +4,8 @@
   "description": "NL Design System design tokens for Demodam",
   "website": "https://demodam.nl/",
   "keywords": [
-    "nl-design-system"
+    "nl-design-system",
+    "conduction"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
   "name": "@conductionnl/demodam-design-tokens",

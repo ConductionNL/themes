@@ -75,14 +75,14 @@ jobs:
         with:
           node-version: "16.x"
 
-      - name: "Continuous Deployment: install"
-        run: |
-          npm ci
-          npm ls
-
-      - name: "Continuous Deployment: build"
-        run: |
-          npm run build --if-present
+#      - name: "Continuous Deployment: install"
+#        run: |
+#          npm ci
+#          npm ls
+#
+#      - name: "Continuous Deployment: build"
+#        run: |
+#          npm run build --if-present
 
 #      - name: "Continuous Deployment: publish to GitHub repository"
 #        env:

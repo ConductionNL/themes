@@ -5,6 +5,7 @@ import '@utrecht/components/form-field-description/bem.scss';
 import '@utrecht/components/pagination/bem.scss';
 
 // Import all themes
+import '@nl-design-system-unstable/almere-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/amsterdam-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/bodegraven-reeuwijk-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/borne-design-tokens/dist/index.css';
@@ -58,6 +59,7 @@ const previewTabs = {
 };
 
 const themes = [
+  'Almere',
   'Amsterdam',
   'Bodegraven-Reeuwijk',
   'Borne',

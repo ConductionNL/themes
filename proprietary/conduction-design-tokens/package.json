@@ -7,7 +7,7 @@
     "nl-design-system"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/conduction-design-tokens",
+  "name": "@conductionnl/conduction-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

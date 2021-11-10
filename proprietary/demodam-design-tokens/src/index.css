@@ -6,7 +6,6 @@
   --utrecht-paragraph-lead-font-size: 1.25rem;
   --utrecht-paragraph-margin-block-end: 2rem;
   --utrecht-paragraph-margin-block-start: 0;
-  --utrecht-page-footer-padding-block-start: 60px;
   --utrecht-ordered-list-marker-content: ●;
   --utrecht-ordered-list-padding-inline-start: 2.5rem;
   --utrecht-ordered-list-margin-block-end: 2rem;
@@ -62,7 +61,7 @@
   --demodam-color-blue-30: #03A9F4;
   --demodam-color-green-10: #CBCE1C;
   --utrecht-page-footer-color: var(--demodam-color-grey-10);
-  --utrecht-page-footer-background-color: var(--demodam-color-grey-30);
+  --utrecht-page-footer-background-color: var(--demodam-color-grey-20);
   --utrecht-link-hover-color: var(--demodam-color-green-10);
   --utrecht-link-focus-color: var(--demodam-color-green-10);
   --utrecht-link-color: var(--demodam-color-grey-40);
@@ -84,4 +83,18 @@
   --utrecht-button-disabled-background-color: var(--demodam-color-grey-20);
   --utrecht-button-color: var(--demodam-color-grey-30);
   --utrecht-button-background-color: var(--demodam-color-grey-40);
+  --utrecht-page-footer-padding-block-start: 1.8em;
+  --utrecht-page-footer-padding-block-end: 1.8em;
+  --utrecht-page-footer-padding-inline-start: 1em;
+  --utrecht-page-footer-padding-inline-end: 1em;
+  --utrecht-page-header-background-color: var(--demodam-color-green-10);
+  --utrecht-topnav-link-hover-background-color: var(--demodam-color-green-10);
+  --utrecht-topnav-link-focus-outline-color: var(--demodam-color-green-10);
+  --utrecht-topnav-link-focus-background-color: var(--demodam-color-green-10);
+  --utrecht-topnav-link-focus-box-shadow-color: var(--demodam-color-green-10);
+  --utrecht-topnav-link-focus-color: var(--demodam-color-green-10);
+  --utrecht-topnav-link-background-color: var(--demodam-color-green-10);
+  --utrecht-topnav-link-color: var(--demodam-color-grey-40);
+  --utrecht-topnav-list-border-color: var(green-10);
+  --utrecht-topnav-list-background-color: var(--demodam-color-green-10);
 }

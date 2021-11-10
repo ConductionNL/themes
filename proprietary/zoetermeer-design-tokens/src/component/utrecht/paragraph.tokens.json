@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "paragraph": {
+      "margin": { "value": "0 0 1em 0" },
+      "display":  { "value":  "block"},
+      "margin-block-start":  { "value":  "1em"},
+      "margin-block-end":  { "value":  "1em"}
+    }
+  }
+}

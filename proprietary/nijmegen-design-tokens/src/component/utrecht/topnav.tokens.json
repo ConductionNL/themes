@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "topnav": {
+      "list": {
+        "background-color": { "value": "{nijmegen.color.red.30.value}" }
+      },
+      "link": {
+        "color": { "value": "{nijmegen.color.white.10.value}" }
+      }
+    }
+  }
+}

@@ -3,7 +3,9 @@
     "page-footer": {
       "background-color": { "value": "{nijmegen.color.grey.20.value}" },
       "color": { "value": "{nijmegen.color.white.10.value}" },
-      "padding-block-start": { "value": "60px" }
+      "padding-block-start": { "value": "60px" },
+      "padding-inline-start": { "value": "2em" },
+      "padding-inline-end": { "value": "2em" }
     }
   }
 }

@@ -13,13 +13,16 @@
       "padding-inline-start": { "value": "2.14rem" },
       "padding-inline-end": { "value": "2.14rem" }
     },
-    "link": {
-      "background-color": { "value": "{nijmegen.color.grey.50.value}" },
+    "__link": {
+      "color": {
+        "value": "{nijmegen.color.grey.50.value}"
+      },
+      "text-decoration": { "value": "none" },
       "hover-color": {
         "value": "{nijmegen.color.grey.35.value}"
       }
     },
-    "item": {
+    "__item": {
       "padding": { "value": "5px" }
     }
   }

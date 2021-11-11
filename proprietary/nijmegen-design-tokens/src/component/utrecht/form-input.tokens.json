@@ -15,10 +15,10 @@
         "color": { "value": "{nijmegen.color.grey.50.value}" }
       },
       "disabled": {
-        "border-color": { "value": "{nijmegen.color.grey.85.value}" }
+        "border-color": { "value": "{nijmegen.color.grey.40.value}" }
       },
       "focus": {
-        "border-color": { "value": "{nijmegen.color.green.32.value}" }
+        "border-color": { "value": "{nijmegen.color.green.25.value}" }
       }
     }
   }

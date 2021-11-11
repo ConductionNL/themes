@@ -1,0 +1,30 @@
+{
+  "almere": {
+    "color": {
+      "grey": {
+        "50": {
+          "value": "#3E5566"
+        }
+      },
+      "blue": {
+        "40": {
+          "value": "#337E94"
+        }
+      },
+      "white": {
+        "25": {
+          "value": "#FFFFFF"
+        }
+      },
+      "lightblue": {
+        "20": {
+          "value": "#E5F5F8"
+        }
+      },
+      "black": {
+        "value": "#000000"
+      }
+    }
+  }
+}
+

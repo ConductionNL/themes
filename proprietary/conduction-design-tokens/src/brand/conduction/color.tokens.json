@@ -1,0 +1,26 @@
+{
+  "conduction": {
+    "color": {
+      "blue": {
+        "20": {
+          "value": "#3576fc",
+          "$comment": "Primary blue"
+        },
+        "30": {
+          "value": "#2C3E50"
+        },
+        "40": {
+          "value": "#000000"
+        }
+      },
+      "grey": {
+        "20": {
+          "value": "#707070"
+        },
+        "100": {
+          "value": "#FFFFFF"
+        }
+      }
+    }
+  }
+}

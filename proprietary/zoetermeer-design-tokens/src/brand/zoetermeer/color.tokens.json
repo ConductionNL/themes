@@ -1,0 +1,38 @@
+{
+  "zoetermeer": {
+    "color": {
+      "blue": {
+        "100": {
+          "value": "#0072B9",
+          "$comment": "Primary blue"
+        }
+      },
+      "lightblue": {
+        "100": {
+          "value": "#7FB8DC",
+          "$comment": "Secondary blue"
+        }
+      },
+      "yellow": {
+        "100": {
+          "value": "#FFE00F"
+        }
+      },
+      "grey": {
+        "100": {
+          "value": "#D0D0D0"
+        }
+      },
+      "black": {
+        "100": {
+          "value": "black"
+        }
+      },
+      "white": {
+        "100": {
+          "value": "white"
+        }
+      }
+    }
+  }
+}

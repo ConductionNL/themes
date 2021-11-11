@@ -5,10 +5,13 @@ import '@utrecht/components/form-field-description/bem.scss';
 import '@utrecht/components/pagination/bem.scss';
 
 // Import all themes
+import '@nl-design-system-unstable/almere-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/amsterdam-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/bodegraven-reeuwijk-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/borne-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/bodegraven-reeuwijk-design-tokens/src/font';
+import '@nl-design-system-unstable/denbosch-design-tokens/dist/index.css';
+import '@nl-design-system-unstable/denbosch-design-tokens/src/font';
 import '@nl-design-system-unstable/drechterland-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/duiven-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/duiven-design-tokens/src/font';
@@ -34,6 +37,9 @@ import '@nl-design-system-unstable/westervoort-design-tokens/src/font';
 import '@nl-design-system-unstable/zevenaar-design-tokens/dist/index.css';
 import '@nl-design-system-unstable/zevenaar-design-tokens/src/font';
 import '@nl-design-system-unstable/zwolle-design-tokens/dist/index.css';
+// Zoetermeer
+import '@nl-design-system-unstable/zoetermeer-design-tokens/dist/index.css';
+
 import '@utrecht/design-tokens/dist/theme/index.css';
 import '@gemeente-denhaag/design-tokens-components/dist/theme/index.css';
 
@@ -53,9 +59,11 @@ const previewTabs = {
 };
 
 const themes = [
+  'Almere',
   'Amsterdam',
   'Bodegraven-Reeuwijk',
   'Borne',
+  'Den Bosch',
   'Den Haag',
   'Drechterland',
   'DSO',
@@ -79,6 +87,7 @@ const themes = [
   'Westervoort',
   'Zevenaar',
   'Zwolle',
+  'Zoetermeer',
 ].sort();
 
 const flatten = (a, b) => [...a, ...b];

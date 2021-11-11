@@ -2,7 +2,7 @@
   "fullName": "Gemeente Den Bosch",
   "name": "Den Bosch",
   "prefix": "denbosch",
-  "npm": "@nl-design-system-unstable/denbosch-design-tokens",
+  "npm": "@conductionnl/denbosch-design-tokens",
   "components": {
     "@utrecht/button": {
       "disabled": true,

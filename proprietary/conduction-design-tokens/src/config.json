@@ -2,7 +2,7 @@
   "fullName": "Conduction design tokens",
   "name": "Conduction",
   "prefix": "conduction",
-  "npm": "@nl-design-system-unstable/conduction-design-tokens",
+  "npm": "@conductionnl/conduction-design-tokens",
   "components": {
     "@utrecht/article": true,
     "@utrecht/badge-counter": true,

@@ -7,7 +7,7 @@
     "nl-design-system"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/nijmegen-design-tokens",
+  "name": "@conductionnl/nijmegen-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

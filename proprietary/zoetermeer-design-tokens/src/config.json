@@ -2,7 +2,7 @@
   "fullName": "Zoetermeer design tokens",
   "name": "Zoetermeer",
   "prefix": "zoetermeer",
-  "npm": "@nl-design-system-unstable/zoetermeer-design-tokens",
+  "npm": "@conductionnl/zoetermeer-design-tokens",
   "components": {
     "@utrecht/button": true,
     "@utrecht/heading-2": true,

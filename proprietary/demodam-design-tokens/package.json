@@ -7,7 +7,7 @@
     "nl-design-system"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/demodam-design-tokens",
+  "name": "@conductionnl/demodam-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

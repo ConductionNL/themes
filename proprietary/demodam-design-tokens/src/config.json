@@ -2,7 +2,7 @@
   "fullName": "Demodam",
   "name": "Demodam",
   "prefix": "demodam",
-  "npm": "@nl-design-system-unstable/demodam-design-tokens",
+  "npm": "@conductionnl/demodam-design-tokens",
   "components": {
     "@utrecht/button": {
       "disabled": true,

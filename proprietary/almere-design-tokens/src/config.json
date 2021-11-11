@@ -1,7 +1,8 @@
 {
-  "fullName": "almere design tokens",
-  "name": "almere",
+  "fullName": "Gemeente Almere",
+  "name": "Almere",
   "prefix": "almere",
+  "npm": "@conductionnl/bodegraven-reeuwijk-design-tokens",
   "components": {
     "@utrecht/button": true,
     "@utrecht/body": true,

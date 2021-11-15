@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "topnav": {
+      "list": {
+        "background-color": { "value": "{conduction.color.blue.20.value}" }
+      },
+      "link": {
+        "color": { "value": "{conduction.color.white.10.value}" }
+      }
+    }
+  }
+}

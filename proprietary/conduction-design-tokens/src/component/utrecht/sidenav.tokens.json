@@ -12,15 +12,6 @@
       "padding-block-end": { "value": ".84rem" },
       "padding-inline-start": { "value": "2.14rem" },
       "padding-inline-end": { "value": "2.14rem" }
-    },
-    "__link": {
-      "color": {
-        "value": "{conduction.color.blue.40.value}"
-      },
-      "text-decoration": { "value": "none" },
-    },
-    "__item": {
-      "pading": { "value": "5px" }
     }
   }
 }

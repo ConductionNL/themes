@@ -33,6 +33,7 @@
     "@utrecht/link": {
       "hover": true
     },
+    "@utrecht/page": true,
     "@utrecht/page-footer": true,
     "@utrecht/paragraph": {
       "lead": true

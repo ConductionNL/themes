@@ -4,10 +4,10 @@
       "background-color": { "value": "{conduction.color.blue.20.value}" },
       "color": { "value": "{conduction.color.grey.100.value}" },
       "border-radius": { "value": "0.2rem" },
-      "margin-block-start": {"value": "6px"},
-      "margin-block-end": {"value": "6px"},
-      "margin-inline-start": {"value": "6px"},
-      "margin-inline-end": {"value": "6px"}
+      "padding-block-start": {"value": "6px"},
+      "padding-block-end": {"value": "6px"},
+      "padding-inline-start": {"value": "6px"},
+      "padding-inline-end": {"value": "6px"}
     }
   }
 }

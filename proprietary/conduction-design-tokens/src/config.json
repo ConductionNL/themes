@@ -34,6 +34,7 @@
       "hover": true
     },
     "@utrecht/page": true,
+    "@utrecht/page-header": true,
     "@utrecht/page-footer": true,
     "@utrecht/paragraph": {
       "lead": true

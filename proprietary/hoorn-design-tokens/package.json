@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-alpha.8",
+  "version": "1.0.0-alpha.14",
   "author": "Community for NL Design System",
   "description": "NL Design System design tokens for Gemeente Hoorn",
   "website": "https://www.hoorn.nl",
@@ -7,7 +7,7 @@
     "nl-design-system"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/hoorn-design-tokens",
+  "name": "@conductionnl/hoorn-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

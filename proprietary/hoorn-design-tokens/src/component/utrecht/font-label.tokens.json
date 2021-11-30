@@ -1,0 +1,8 @@
+{
+  "utrecht": {
+    "form-label": {
+      "color": { "value": "{hoorn.color.grey.100.value}" },
+      "font-weight": { "value": "600" }
+    }
+  }
+}

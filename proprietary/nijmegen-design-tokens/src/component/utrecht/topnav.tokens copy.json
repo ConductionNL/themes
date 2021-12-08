@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "sidenav": {
+      "item": {
+        "color": { "value": "{nijmegen.color.gray.20.value}" },
+        "padding-top": { "value": "15px" },
+        "text-decoration":  { "value": "none !important" },
+        "background-color": { "value": "{nijmegen.color.red.30.value}" }
+      }
+    }
+  }
+}

@@ -34,6 +34,7 @@
     "@utrecht/textarea": true,
     "@utrecht/unordered-list": true,
     "@utrecht/sidenav": true,
-    "@utrecht/topnav": true
+    "@utrecht/topnav": true,
+    "@utrecht/logo": true
   }
 }

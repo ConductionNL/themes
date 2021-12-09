@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "page-footer": {
-      "background-color": { "value": "{nijmegen.color.grey.20.value}" },
+      "background-color": { "value": "{nijmegen.color.red.30.value}" },
       "color": { "value": "{nijmegen.color.white.10.value}" },
       "padding-block-start": { "value": "60px" },
       "padding-inline-start": { "value": "2em" },

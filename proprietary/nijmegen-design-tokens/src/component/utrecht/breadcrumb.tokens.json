@@ -1,0 +1,18 @@
+{
+  "utrecht": {
+    "breadcrumb": {
+      "__link": {
+        "color": { "value": "{nijmegen.color.red.30.value}" },
+        "text-decoration-line": { "value": "none"},
+        "padding-block-end": "8px",
+        "padding-block-start": "0px",
+        "padding-inline-end": "8px",
+        "padding-inline-start": "8px"
+      },
+      "hover": {
+        "color": { "value": "{nijmegen.color.red.30.value}" },
+        "text-decoration-line": { "value": "underline"}
+      }
+    }
+  }
+}

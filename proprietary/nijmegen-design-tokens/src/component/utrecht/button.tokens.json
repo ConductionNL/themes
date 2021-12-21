@@ -4,19 +4,42 @@
       "background-color": { "value": "{nijmegen.color.green.30.value}" },
       "border-width": { "value": "0" },
       "border-radius": { "value": ".125rem" },
-      "color": { "value": "{nijmegen.color.grey.100.value}" },
+      "color": { "value": "{nijmegen.color.white.10.value}" },
       "margin-block-end": { "value": "0.5rem" },
       "font-size": { "value": "1.125rem" },
       "font-weight": { "value": "600" },
-      "min-inline-size": { "value": "250px" },
       "padding-block-start": { "value": ".84rem" },
       "padding-block-end": { "value": ".84rem" },
       "padding-inline-start": { "value": "2.14rem" },
       "padding-inline-end": { "value": "2.14rem" },
       "text-transform": { "value": "uppercase" },
       "disabled": {
-        "background-color": { "value": "{nijmegen.color.grey.85b.value}" },
-        "color": { "value": "{nijmegen.color.grey.100.value}" }
+        "background-color": { "value": "{nijmegen.color.grey.50.value}" },
+        "color": { "value": "{nijmegen.color.white.10.value}" }
+      },
+      "hover": {
+        "background-color": { "value": "{nijmegen.color.green.25.value}" }
+      },
+      "focus": {
+        "background-color": { "value": "{nijmegen.color.green.25.value}" }
+      }
+    },
+    "button-small": {
+      "background-color": { "value": "{nijmegen.color.green.30.value}" },
+      "border-width": { "value": "0" },
+      "border-radius": { "value": ".125rem" },
+      "color": { "value": "{nijmegen.color.white.10.value}" },
+      "margin-block-end": { "value": "0.5rem" },
+      "font-size": { "value": "0.8rem" },
+      "font-weight": { "value": "300" },
+      "padding-block-start": { "value": ".42rem" },
+      "padding-block-end": { "value": ".42rem" },
+      "padding-inline-start": { "value": "1.08rem" },
+      "padding-inline-end": { "value": "1.08rem" },
+      "text-transform": { "value": "uppercase" },
+      "disabled": {
+        "background-color": { "value": "{nijmegen.color.grey.50.value}" },
+        "color": { "value": "{nijmegen.color.white.10.value}" }
       },
       "hover": {
         "background-color": { "value": "{nijmegen.color.green.25.value}" }

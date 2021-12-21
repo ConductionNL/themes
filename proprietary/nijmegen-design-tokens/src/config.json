@@ -32,6 +32,9 @@
     "@utrecht/select": true,
     "@utrecht/textbox": true,
     "@utrecht/textarea": true,
-    "@utrecht/unordered-list": true
+    "@utrecht/unordered-list": true,
+    "@utrecht/sidenav": true,
+    "@utrecht/topnav": true,
+    "@utrecht/logo": true
   }
 }

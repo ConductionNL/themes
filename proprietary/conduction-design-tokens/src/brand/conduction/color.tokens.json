@@ -3,23 +3,32 @@
     "color": {
       "blue": {
         "20": {
-          "value": "#3576fc",
+          "value": "#1269DB",
           "$comment": "Primary blue"
         },
         "30": {
           "value": "#2C3E50"
         },
         "40": {
+          "value": "#2D3D4F"
+        },
+        "100": {
           "value": "#000000"
         }
       },
       "grey": {
+        "10": {
+          "value": "#FAFAFA"
+        },
         "20": {
-          "value": "#707070"
+          "value": "#698097"
         },
         "100": {
           "value": "#FFFFFF"
         }
+      },
+      "white": {
+        "10": {"value": "#FFFFFF"}
       }
     }
   }

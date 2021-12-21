@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "link": {
+      "color": { "value": "{denbosch.color.blue.30.value}" },
+      "text-decoration": { "value": "none" },
+      "focus": {
+        "color": { "value": "{denbosch.color.purple.25.value}" },
+        "text-decoration": { "value": "underline" }
+      },
+      "hover": {
+        "color": { "value": "{denbosch.color.purple.25.value}" },
+        "text-decoration": { "value": "underline" }
+      }
+    }
+  }
+}

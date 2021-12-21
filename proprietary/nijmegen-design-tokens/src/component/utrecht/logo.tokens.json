@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "logo": {
+      "max-width": {
+        "value": "200px"
+      },
+      "float": {
+        "value": "left"
+      },
+      "margin-bottom": {
+        "value": "-100px"
+      }
+    }
+  }
+}

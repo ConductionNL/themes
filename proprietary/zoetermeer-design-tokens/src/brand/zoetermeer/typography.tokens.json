@@ -1,0 +1,11 @@
+{
+  "zoetermeer": {
+    "typography": {
+      "sans-serif": {
+        "font-family": {
+          "value": "\"Verdana\", \"Arial\", \"serif\", sans-serif"
+        }
+      }
+    }
+  }
+}

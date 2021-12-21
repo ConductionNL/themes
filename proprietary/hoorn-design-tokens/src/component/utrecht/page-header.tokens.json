@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "page-header": {
-      "background-color": { "value": "{hoorn.color.grey.50.value}" },
+      "background-color": { "value": "{hoorn.color.grey.90.value}" },
       "color": { "value": "{hoorn.color.grey.20.value}" }
     }
   }

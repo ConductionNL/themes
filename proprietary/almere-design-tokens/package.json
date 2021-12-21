@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-alpha.12",
+  "version": "1.0.0-alpha.1",
   "author": "Community for NL Design System",
   "description": "NL Design System design tokens for Gemeente Almere",
   "website": "https://www.almere.nl",
@@ -7,7 +7,7 @@
     "nl-design-system"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/almere-design-tokens",
+  "name": "@conductionnl/almere-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

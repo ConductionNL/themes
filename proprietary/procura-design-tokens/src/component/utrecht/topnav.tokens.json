@@ -1,0 +1,17 @@
+{
+  "utrecht": {
+    "topnav": {
+      "list": {
+        "background-color": { "value": "{procura.color.blue.40.value}" }
+      },
+      "link": {
+        "color": { "value": "{procura.color.white.20.value}" },
+        "text-decoration": { "value": "none" },
+        "hover": {
+          "color": { "value": "{procura.color.white.20.value}" },
+          "text-decoration": { "value": "none" }
+        }
+      }
+    }
+  }
+}

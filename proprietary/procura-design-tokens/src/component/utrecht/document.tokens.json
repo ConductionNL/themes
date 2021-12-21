@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value":  "{procura.color.white.20.value}" },
+      "color": { "value": "{procura.color.black.40.value}" },
+      "font-family": { "value": "{procura.typography.sans-serif.font-family.value}" },
+      "font-size": { "value": "16px" },
+      "font-weight": { "value": "300" },
+      "line-height": { "value": "1.5" }
+    }
+  }
+}

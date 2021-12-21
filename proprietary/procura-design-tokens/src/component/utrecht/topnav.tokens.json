@@ -17,9 +17,6 @@
       "hover": {
         "color": {
           "value": "{procura.color.white.20.value}"
-        },
-        "text-decoration": {
-          "value": "none"
         }
       }
     }

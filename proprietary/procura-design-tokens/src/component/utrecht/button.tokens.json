@@ -2,7 +2,7 @@
   "utrecht": {
     "button": {
       "background-color": {
-        "value": "{procura.color.white.20.value}"
+        "value": "{procura.color.blue.40.value}"
       },
       "color": {
         "value": "{procura.color.blue.40.value}"

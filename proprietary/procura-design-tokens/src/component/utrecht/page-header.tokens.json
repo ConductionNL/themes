@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{procura.color.white.20.value}" },
+      "color": { "value": "{procura.color.blue.40.value}" },
+      "font-weight": { "value": "400" },
+      "font-size": { "value": "15px" }
+    }
+  }
+}

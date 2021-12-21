@@ -1,0 +1,15 @@
+{
+  "utrecht": {
+    "paragraph": {
+      "color": {"value": "{procura.color.black.40.value}"  },
+      "font-family": { "value": "{procura.typography.sans-serif.font-family.value}" },
+      "margin-block-start": { "value": "0" },
+      "margin-block-end": { "value": "2rem" },
+      "lead": {
+        "font-size": { "value": "16px" },
+        "font-weight": { "value": "400" },
+        "margin-block-end": { "value": "3rem" }
+      }
+    }
+  }
+}

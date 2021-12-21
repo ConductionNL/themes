@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{procura.color.grey.60.value}" },
+      "color": { "value": "{procura.color.white.20.value}" },
+      "padding-block-start": { "value": "60px" }
+    }
+  }
+}

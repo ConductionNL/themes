@@ -4,3 +4,4 @@
 2. Add design tokens for colors
 3. See that the colors show up in the storybook!
 4. Add components and component tokens by looking at other themes to see how it's done
+5. Hi

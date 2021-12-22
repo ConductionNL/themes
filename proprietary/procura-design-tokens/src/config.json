@@ -2,7 +2,7 @@
   "fullName": "Procura design tokens",
   "name": "Procura",
   "prefix": "procura",
-  "npm": "@conductionnl/procura-design-tokens",
+  "npm": "@nl-design-system-unstable/procura-design-tokens",
   "components": {
     "@utrecht/article": true,
     "@utrecht/badge-counter": true,

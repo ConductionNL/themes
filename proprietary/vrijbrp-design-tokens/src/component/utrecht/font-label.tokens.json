@@ -1,0 +1,8 @@
+{
+  "utrecht": {
+    "form-label": {
+      "color": { "value": "{vrijbrp.color.black.20.value}" },
+      "font-weight": { "value": "600" }
+    }
+  }
+}

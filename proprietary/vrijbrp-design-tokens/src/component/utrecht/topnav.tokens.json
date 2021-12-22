@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "topnav": {
+      "list": {
+        "background-color": { "value": "{vrijbrp.color.green.20.value}" }
+      },
+      "link": {
+        "color": { "value": "{vrijbrp.color.white.20.value}" }
+      }
+    }
+  }
+}

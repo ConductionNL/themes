@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "white" },
+      "color": { "value": "" },
+      "font-family": { "value": "{simgroep.typography.sans-serif.font-family.value}" },
+      "font-size": { "value": "14px" },
+      "font-weight": { "value": "400" },
+      "line-height": { "value": "1.5" }
+    }
+  }
+}

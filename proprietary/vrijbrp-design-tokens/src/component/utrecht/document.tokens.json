@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value": "#F2F2F2" },
+      "color": { "value": "" },
+      "font-family": { "value": "{vrijbrp.typography.sans-serif.font-family.value}" },
+      "font-size": { "value": "17px" },
+      "font-weight": { "value": "300" },
+      "line-height": { "value": "1.6" }
+    }
+  }
+}

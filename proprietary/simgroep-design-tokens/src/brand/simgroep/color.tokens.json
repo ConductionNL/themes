@@ -1,0 +1,40 @@
+{
+  "simgroep": {
+    "color": {
+      "blue": {
+        "20": {
+          "value": "#266DCD"
+        },
+        "40": {
+          "value": "#0237D3"
+        }
+      },
+      "grey": {
+        "20": {
+          "value": "#F3F3F3"
+        },
+        "40": {
+          "value": "#8B8B8B"
+        },
+        "60": {
+          "value": "#2D3748"
+        }
+      },
+      "pink": {
+        "20": {
+          "value": "#D03F97"
+        }
+      },
+      "white": {
+        "20": {
+          "value": "#FFFFFF"
+        },
+        "black": {
+          "20": {
+            "value": "#FFFFFF"
+          }
+        }
+      }
+    }
+  }
+}

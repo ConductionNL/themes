@@ -2,7 +2,23 @@
   "utrecht": {
     "button": {
       "background-color": { "value": "{procura.color.blue.40.value}" },
-      "color": { "value": "{procura.color.white.20.value}" }
+      "border-width": { "value": "0" },
+      "border-radius": { "value": "0" },
+      "border": { "value": "1px" },
+      "color": { "value":  "{procura.color.white.20.value}" },
+      "font-size": { "value": "16px" },
+      "line-height": { "value": "26px" },
+      "margin-block-end": { "value": "7px" },
+      "margin-block-start": { "value": "7px" },
+      "margin-inline-end": { "value": "30px" },
+      "margin-inline-start": { "value": "30px" },
+      "hover": {
+        "background-color": { "value": "{procura.color.blue.40.value}" },
+        "color": { "value": "{procura.color.white.20.value}"   }
+      },
+      "focus": {
+        "background-color": { "value": "{procura.color.blue.40.value}" }
+      }
     }
   }
 }

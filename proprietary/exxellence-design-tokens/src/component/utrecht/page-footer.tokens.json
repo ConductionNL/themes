@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{exxellence.color.white.20.value}" },
+      "color": { "value": "{exxellence.color.blue.20.value}" },
+      "padding-block-start": { "value": "15px" },
+      "padding-block-end": { "value": "15px" },
+      "padding-inline-start": { "value": "2em" },
+      "padding-inline-end": { "value": "2em" }
+    }
+  }
+}

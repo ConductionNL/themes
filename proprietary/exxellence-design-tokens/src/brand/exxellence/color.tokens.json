@@ -1,0 +1,52 @@
+{
+  "exxellence": {
+    "color": {
+      "orange": {
+        "20": {
+          "value": "#FD7337"
+        }
+      },
+      "grey": {
+        "20": {
+          "value": "#C6C6C6"
+        },
+        "40": {
+          "value": "#5E5E5E"
+        }
+      },
+      "green": {
+        "20": {
+          "value": "#1E8753"
+        }
+      },
+      "yellow": {
+        "20": {
+          "value": "#E89B1F"
+        }
+      },
+      "blue": {
+        "20": {
+          "value": "#1E65BA"
+        }
+      },
+      "red": {
+        "20": {
+          "value": "#C6C6C6"
+        }
+      },
+      "white": {
+        "20": {
+          "value": "#FFFFFF"
+        }
+      },
+      "black": {
+        "20": {
+          "value": "#282828"
+        },
+        "40": {
+          "value": "#1D1D1D"
+        }
+      }
+    }
+  }
+}

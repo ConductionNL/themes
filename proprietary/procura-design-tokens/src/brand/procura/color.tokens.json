@@ -11,16 +11,16 @@
       },
       "grey": {
         "20": {
-          "value": "#4B575F"
-        },
-        "40": {
           "value": "#E8E8E8"
         },
+        "40": {
+          "value": "#4B575F"
+        },
         "60": {
-          "value": "#A4AEB4"
+          "value": "#a4aeb4"
         },
         "80": {
-          "value": "#8F8F8F"
+          "value": "#4B575F"
         }
       },
       "white": {

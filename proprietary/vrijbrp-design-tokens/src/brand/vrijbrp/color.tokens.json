@@ -1,0 +1,47 @@
+{
+  "vrijbrp": {
+    "color": {
+      "blue": {
+        "20": {
+          "value": "#476FD3"
+        },
+        "40": {
+          "value": "#1E73BE"
+        },
+        "60": {
+          "value": "#1C3173"
+        },
+        "80": {
+          "value": "#132248"
+        }
+      },
+      "grey": {
+        "20": {
+          "value": "#F2F2F2"
+        }
+      },
+      "green": {
+        "20": {
+          "value": "#08D3B8"
+        },
+        "40": {
+          "value": "#23BDCE"
+        },
+        "60": {
+          "value": "#1ABC9C"
+        }
+      },
+      "white": {
+        "20": {
+          "value": "#FFFFFF"
+        }
+      },
+      "black": {
+        "20": {
+          "value": "#FFFFFF"
+        }
+      }
+    }
+  }
+}
+

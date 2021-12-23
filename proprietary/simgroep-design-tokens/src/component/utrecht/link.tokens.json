@@ -1,0 +1,13 @@
+{
+  "utrecht": {
+    "link": {
+      "color": { "value": "{simgroep.color.blue.20.value}" },
+      "focus": {
+        "color": { "value": "{simgroep.color.blue.20.value}" }
+      },
+      "hover": {
+        "color": { "value": "{simgroep.color.blue.20.value}" }
+      }
+    }
+  }
+}

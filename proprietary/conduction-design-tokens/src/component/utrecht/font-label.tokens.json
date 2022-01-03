@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "form-label": {
-      "color": { "value": "{conduction.color.grey.100.value}" },
+      "color": { "value": "{conduction.color.grey.20.value}" },
       "font-weight": { "value": "600" }
     }
   }

@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "document": {
-      "background-color": { "value": "white" },
-      "color": { "value": "#212121" },
+      "background-color": { "value":  "{conduction.color.white.40.value}" },
+      "color": { "value":  "{conduction.color.black.20.value}" },
       "font-family": { "value": "{conduction.typography.sans-serif.font-family.value}" },
       "font-size": { "value": "14px" },
       "font-weight": { "value": "400" },

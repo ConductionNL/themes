@@ -3,32 +3,35 @@
     "color": {
       "blue": {
         "20": {
-          "value": "#1269DB",
-          "$comment": "Primary blue"
-        },
-        "30": {
-          "value": "#2C3E50"
+          "value": "#1269DB"
         },
         "40": {
+          "value": "#2C3E50"
+        },
+        "60": {
           "value": "#2D3D4F"
-        },
-        "100": {
-          "value": "#000000"
-        }
-      },
-      "grey": {
-        "10": {
-          "value": "#FAFAFA"
-        },
-        "20": {
-          "value": "#698097"
-        },
-        "100": {
-          "value": "#FFFFFF"
         }
       },
       "white": {
-        "10": {"value": "#FFFFFF"}
+        "20": {
+          "value": "#FFFFFF"
+        },
+        "40": {
+          "value": "#FAFAFA"
+        }
+      },
+      "grey": {
+        "20": {
+          "value": "#698097"
+        }
+      },
+      "black": {
+        "20": {
+          "value": "#121212"
+        },
+        "40": {
+          "value": "#000000"
+        }
       }
     }
   }

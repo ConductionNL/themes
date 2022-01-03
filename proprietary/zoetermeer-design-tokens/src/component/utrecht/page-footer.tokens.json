@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "page-footer": {
-      "background-color": { "value": "{zoetermeer.color.blue.100.value}" },
-      "color": { "value": "{zoetermeer.color.white.100.value}" }
+      "background-color": { "value": "{zoetermeer.color.blue.20.value}" },
+      "color": { "value": "{zoetermeer.color.white.20.value}" }
     }
   }
 }

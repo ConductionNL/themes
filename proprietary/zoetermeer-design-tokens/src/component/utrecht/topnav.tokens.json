@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "topnav": {
+      "list": {
+        "background-color": { "value": "{zoetermeer.color.white.20.value}" }
+      },
+      "link": {
+        "color": { "value": "{zoetermeer.color.blue.20.value}" }
+      }
+    }
+  }
+}

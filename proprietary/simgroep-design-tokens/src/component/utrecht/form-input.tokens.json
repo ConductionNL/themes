@@ -2,7 +2,7 @@
   "utrecht": {
     "form-input": {
       "background-color": { "value": "transparent" },
-      "color": { "value": "{utrecht.document.color.value}" },
+      "color":  { "value": "{simgroep.color.black.20.value}" },
       "border-color": { "value": "{simgroep.color.grey.40.value}" },
       "border-width": { "value": "0" },
       "font-size": { "value": "16px" },

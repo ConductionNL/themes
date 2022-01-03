@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "document": {
-      "background-color": { "value": "white" },
-      "color": { "value": "" },
+      "background-color": { "value": "{simgroep.color.white.20.value}" },
+      "color": { "value": "{simgroep.color.black.20.value}" },
       "font-family": { "value": "{simgroep.typography.sans-serif.font-family.value}" },
       "font-size": { "value": "14px" },
       "font-weight": { "value": "400" },

@@ -28,13 +28,14 @@
       "white": {
         "20": {
           "value": "#FFFFFF"
-        },
-        "black": {
-          "20": {
-            "value": "#FFFFFF"
-          }
+        }
+      },
+      "black": {
+        "20": {
+          "value": "#000000"
         }
       }
     }
   }
 }
+

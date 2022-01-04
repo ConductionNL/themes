@@ -2,8 +2,8 @@
   "utrecht": {
     "form-input": {
       "background-color": { "value": "transparent" },
-      "color": { "value": "{almere.color.grey.50.value}" },
-      "border-color": { "value": "{almere.color.grey.50.value}" },
+      "color": { "value": "{almere.color.black.20.value}" },
+      "border-color": { "value": "{almere.color.grey.40.value}" },
       "border-width": { "value": "0" },
       "font-size": { "value": "16px" },
       "font-weight": { "value": "600" },
@@ -18,7 +18,7 @@
         "border-color": { "value": "{almere.color.blue.40.value}" }
       },
       "focus": {
-        "border-color": { "value": "{almere.color.white.25.value}" }
+        "border-color": { "value": "{almere.color.white.20.value}" }
       }
     }
   }

@@ -1,26 +1,52 @@
 {
-  "fullName": "almere design tokens",
-  "name": "almere",
+  "fullName": "Almere design tokens",
+  "name": "Almere",
   "prefix": "almere",
   "components": {
-    "@utrecht/button": true,
-    "@utrecht/body": true,
-    "@utrecht/form-field": true,
+    "@utrecht/article": true,
+    "@utrecht/badge-counter": true,
+    "@utrecht/badge-data": true,
+    "@utrecht/blockquote": true,
+    "@utrecht/button": {
+      "disabled": true,
+      "focus": true
+    },
+    "@utrecht/custom-checkbox": {
+      "checked": true,
+      "disabled": true,
+      "focus": true,
+      "hover": true
+    },
+    "@utrecht/document": true,
     "@utrecht/form-input": true,
-    "@utrecht/form-select": true,
-    "@utrecht/header": true,
-    "@utrecht/heading": true,
-    "@utrecht/heading1": true,
-    "@utrecht/heading2": true,
-    "@utrecht/heading3": true,
-    "@utrecht/heading4": true,
-    "@utrecht/heading5": true,
-    "@utrecht/link": true,
-    "@utrecht/ordered": true,
+    "@utrecht/form-label": {
+      "checkbox": true,
+      "radio": true
+    },
+    "@utrecht/heading-1": true,
+    "@utrecht/heading-2": true,
+    "@utrecht/heading-3": true,
+    "@utrecht/heading-4": true,
+    "@utrecht/heading-5": true,
+    "@utrecht/heading-6": true,
+    "@utrecht/link": {
+      "hover": true
+    },
+    "@utrecht/page": true,
+    "@utrecht/page-header": true,
     "@utrecht/page-footer": true,
-    "@utrecht/paragraph": true,
+    "@utrecht/paragraph": {
+      "lead": true
+    },
+    "@utrecht/select": true,
+    "@utrecht/separator": true,
     "@utrecht/table": true,
-    "@utrecht/textarea": true,
-    "@utrecht/textbox": true
+    "@utrecht/textarea": {
+      "placeholder": true
+    },
+    "@utrecht/textbox": {
+      "placeholder": true
+    },
+    "@utrecht/unordered-list": true
   }
 }

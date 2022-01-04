@@ -11,7 +11,7 @@
         "value": "0"
       },
       "color": {
-        "value": "{almere.color.grey.50.value}"
+        "value": "{almere.color.black.20.value}"
       },
       "font-size": {
         "value": "16px"
@@ -33,15 +33,12 @@
       },
       "hover": {
         "background-color": {
-          "value": "{almere.color.blue.40.value}"
-        },
-        "color": {
-          "value": "{almere.color.grey.50.value}"
+          "value": "{almere.color.white.20.value}"
         }
       },
       "focus": {
         "background-color": {
-          "value": "{almere.color.white.25.value}"
+          "value": "{almere.color.white.20.value}"
         }
       }
     }

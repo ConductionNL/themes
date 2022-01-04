@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "document": {
+      "background-color": { "value":  "{almere.color.blue.20.value}" },
+      "color": { "value":  "{almere.color.black.20.value}" },
+      "font-family": { "value": "{almere.typography.sans-serif.font-family.value}" },
+      "font-size": { "value": "14px" },
+      "font-weight": { "value": "400" },
+      "line-height": { "value": "1.5" }
+    }
+  }
+}

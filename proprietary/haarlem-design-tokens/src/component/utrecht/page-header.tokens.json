@@ -1,0 +1,8 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{haarlem.color.grey.60.value}" },
+      "color": { "value": "{haarlem.color.white.20.value}" }
+    }
+  }
+}

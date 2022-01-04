@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "link": {
+      "color": { "value": "{haarlem.color.blue.20.value}" },
+      "text-decoration": { "value": "none" },
+      "focus": {
+        "color": { "value": "{haarlem.color.black.20.value}" }
+      },
+      "hover": {
+        "color": { "value": "{haarlem.color.black.20.value}" }
+      }
+    }
+  }
+}

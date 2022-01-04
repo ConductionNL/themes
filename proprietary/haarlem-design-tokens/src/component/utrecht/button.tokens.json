@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "button": {
+      "background-color": { "value": "{haarlem.color.red.20.value}" },
+      "color": { "value": "{haarlem.color.white.20.value}" },
+      "margin": {"value" : "0.25em"},
+      "font-weight": { "value": "700" },
+      "text-align": {"value": "center"},
+      "font-family": { "value": "{haarlem.typography.sans-serif.font-family.value}" }
+    }
+  }
+}

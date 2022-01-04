@@ -1,0 +1,8 @@
+{
+  "utrecht": {
+    "form-label": {
+      "color": { "value": "{haarlem.color.blue.20.value}" },
+      "font-weight": { "value": "600" }
+    }
+  }
+}

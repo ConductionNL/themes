@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "page-footer": {
+      "background-color": { "value": "{haarlem.color.grey.20.value}" },
+      "color": { "value": "{haarlem.color.grey.80.value}" }
+
+    }
+  }
+}

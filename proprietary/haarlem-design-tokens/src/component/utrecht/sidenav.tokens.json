@@ -1,0 +1,23 @@
+{
+  "utrecht": {
+    "sidenav":{
+      "border-width": { "value": "0" },
+      "border-radius": { "value": ".125rem" },
+      "color": { "value": "{haarlem.color.blue.20.value}" },
+      "margin-block-end": { "value": "0.5rem" },
+      "font-size": { "value": "16px" },
+      "font-weight": { "value": "300" },
+      "min-inline-size": { "value": "250px" },
+      "link": {
+        "color": { "value": "{haarlem.color.blue.20.value}" },
+        "text-decoration": { "value": "none" },
+        "focus": {
+          "color": { "value": "{haarlem.color.black.20.value}" }
+        },
+        "hover": {
+          "color": { "value": "{haarlem.color.black.20.value}" }
+        }
+      }
+    }
+  }
+}

@@ -3,7 +3,7 @@
     "topnav": {
       "list": {
         "background-color": {
-          "value": "{almere.color.blue.20.value}"
+          "value": "{almere.color.blue.40.value}"
         }
       },
       "link": {

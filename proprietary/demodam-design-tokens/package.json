@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0-alpha.8",
+  "version": "1.0.0-alpha.9",
   "author": "Community for NL Design System",
-  "description": "NL Design System design tokens for Demodam",
+  "description": "Conduction directory - NL Design System design tokens",
   "website": "https://demodam.nl/",
   "keywords": [
     "nl-design-system"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@nl-design-system-unstable/demodam-design-tokens",
+  "name": "@conductionnl/demodam-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

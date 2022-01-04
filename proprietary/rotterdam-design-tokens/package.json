@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-alpha.14",
+  "version": "1.0.0-alpha.1",
   "author": "Community for NL Design System",
   "description": "Rotterdam directory - NL Design System design tokens",
   "website": "https://www.rotterdam.nl/",
@@ -7,7 +7,7 @@
     "nl-design-system"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
-  "name": "@conductionnl/vrijbrp-design-tokens",
+  "name": "@conductionnl/rotterdam-design-tokens",
   "private": false,
   "publishConfig": {
     "access": "public"

@@ -1,49 +1,38 @@
 {
   "rotterdam": {
     "color": {
-      "white": {
-        "value": "hsl(0 100% 100%)",
-        "$comment": "#fff",
-        "comment": "Primary-White"
-      },
       "grey": {
-        "0": {
-          "value": "hsl(0 0% 0%)"
-        },
-        "10": {
-          "value": "hsl(0 0% 14%)",
-          "$comment": "#242424",
-          "comment": "Primary-Black"
-        },
         "20": {
-          "value": "hsl(0 0% 20%)",
-          "$comment": "#333",
-          "comment": "Primary-Black"
+          "value": "#A9A9A9"
         },
-        "95": {
-          "value": "hsl(0 0% 96%)",
-          "$comment": "#f5f5f5"
+        "40": {
+          "value": "#F5F5F5"
+        },
+        "60": {
+          "value": "#242424"
         }
       },
       "green": {
-        "30": {
-          "value": "hsl(138 72% 31%)",
-          "$comment": "#168838",
-          "comment": "Supplement-Darkgreen"
+        "20": {
+          "value": "#168838"
         }
       },
-      "orange": {
-        "30": {
-          "value": "hsl(31deg 93% 33%)"
-        },
-        "40": {
-          "value": "hsl(31deg 93% 40%)"
-        },
-        "45": {
-          "value": "hsl(17 92% 44%)",
-          "$comment": "#d64309"
+      "orenje": {
+        "20": {
+          "value": "#d64309"
+        }
+      },
+      "white": {
+        "20": {
+          "value": "#FFFFFF"
+        }
+      },
+      "black": {
+        "20": {
+          "value": "#000000"
         }
       }
     }
   }
 }
+

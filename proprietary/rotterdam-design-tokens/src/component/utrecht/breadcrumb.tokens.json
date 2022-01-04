@@ -1,0 +1,9 @@
+{
+  "utrecht": {
+    "breadcrumb": {
+      "__link": {
+        "color": { "value": "{rotterdam.color.grey.40.value}" }
+      }
+    }
+  }
+}

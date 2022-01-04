@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "document": {
-      "background-color": { "value": "{rotterdam.color.white.value}" },
+      "background-color": { "value": "{rotterdam.color.white.20.value}" },
       "color": { "value": "{rotterdam.color.grey.20.value}" },
       "font-family": { "value": "{rotterdam.typography.sans-serif.font-family.value}" },
       "font-size": { "value": "16px" },

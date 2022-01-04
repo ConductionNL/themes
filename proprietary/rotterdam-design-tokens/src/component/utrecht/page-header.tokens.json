@@ -1,0 +1,10 @@
+{
+  "utrecht": {
+    "page-header": {
+      "background-color": { "value": "{rotterdam.color.white.20.value}" },
+      "color": { "value": "{rotterdam.color.black.20.value}" },
+      "padding-block-start": { "value": "2em" },
+      "padding-block-end": { "value": "4em" }
+    }
+  }
+}

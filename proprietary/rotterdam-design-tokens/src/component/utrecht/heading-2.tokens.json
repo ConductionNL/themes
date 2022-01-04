@@ -1,0 +1,8 @@
+{
+  "utrecht": {
+    "heading-2": {
+      "font-size": { "value": "2.25rem" },
+      "margin-block-end": { "value": "0.5rem" }
+    }
+  }
+}

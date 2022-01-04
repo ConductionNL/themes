@@ -1,0 +1,8 @@
+{
+  "utrecht": {
+    "form-label": {
+      "color": { "value": "{maastricht.color.blue.60.value}" },
+      "font-weight": { "value": "600" }
+    }
+  }
+}

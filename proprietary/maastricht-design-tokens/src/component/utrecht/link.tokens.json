@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "link": {
+      "color": { "value": "{maastricht.color.blue.60.value}" },
+      "text-decoration": { "value": "none" },
+      "focus": {
+        "color": { "value": "{maastricht.color.red.20.value}" },
+        "text-decoration": { "value": "none" }
+      },
+      "hover": {
+        "color": { "value": "{maastricht.color.red.20.value}" },
+        "text-decoration": { "value": "none" }
+      }
+    }
+  }
+}

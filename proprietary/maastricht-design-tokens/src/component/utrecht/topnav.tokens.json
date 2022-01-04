@@ -1,0 +1,12 @@
+{
+  "utrecht": {
+    "topnav": {
+      "list": {
+        "background-color": { "value": "{maastricht.color.white.20.value}" }
+      },
+      "link": {
+        "color": { "value": "{maastricht.color.blue.80.value}" }
+      }
+    }
+  }
+}

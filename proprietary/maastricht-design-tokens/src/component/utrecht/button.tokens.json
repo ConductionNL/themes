@@ -1,0 +1,22 @@
+{
+  "utrecht": {
+    "button": {
+      "background-color": { "value": "{maastricht.color.blue.80.value}" },
+      "color": { "value": "{maastricht.color.white.20.value}" },
+      "text-decoration": { "value": "none" },
+      "border-radius": { "value": "0.2rem" },
+      "padding-block-start": {"value": "6px"},
+      "padding-block-end": {"value": "6px"},
+      "padding-inline-start": {"value": "6px"},
+      "padding-inline-end": {"value": "6px"},
+      "focus": {
+        "color": { "value": "{maastricht.color.red.20.value}" },
+        "text-decoration": { "value": "none" }
+      },
+      "hover": {
+        "color": { "value": "{maastricht.color.orenje.20.value}" },
+        "text-decoration": { "value": "none" }
+      }
+    }
+  }
+}

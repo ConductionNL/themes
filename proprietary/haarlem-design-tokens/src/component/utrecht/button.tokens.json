@@ -1,12 +1,47 @@
 {
   "utrecht": {
     "button": {
-      "background-color": { "value": "{haarlem.color.red.20.value}" },
-      "color": { "value": "{haarlem.color.white.20.value}" },
-      "margin": {"value" : "0.25em"},
-      "font-weight": { "value": "700" },
-      "text-align": {"value": "center"},
-      "font-family": { "value": "{haarlem.typography.sans-serif.font-family.value}" }
+      "background-color": {
+        "value": "{haarlem.color.blue.20.value}"
+      },
+      "border-width": {
+        "value": "0"
+      },
+      "border-radius": {
+        "value": "4px"
+      },
+      "color": {
+        "value": "{haarlem.color.white.20.value}"
+      },
+      "font-family": { "value": "{haarlem.typography.sans-serif.font-family.value}" },
+      "font-size": {
+        "value": "inherit"
+      },
+      "line-height": {
+        "value": "26px"
+      },
+      "padding-block-end": {
+        "value": "10px"
+      },
+      "padding-block-start": {
+        "value": "10px"
+      },
+      "padding-inline-end": {
+        "value": "60px"
+      },
+      "padding-inline-start": {
+        "value": "60px"
+      },
+      "hover": {
+        "background-color": {
+          "value": "{haarlem.color.blue.40.value}"
+        }
+      },
+      "focus": {
+        "background-color": {
+          "value": "{haarlem.color.blue.40.value}"
+        }
+      }
     }
   }
 }

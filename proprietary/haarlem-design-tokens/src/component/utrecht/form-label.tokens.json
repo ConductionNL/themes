@@ -1,0 +1,16 @@
+{
+  "utrecht": {
+    "form-label": {
+      "color": {"value": "{haarlem.color.grey.40.value}"},
+      "font-weight": {"value": "700"},
+      "font-size": {"value": "inherit"},
+      "checkbox": {
+        "font-weight": {"value": "600"}
+      },
+
+      "disabled": {
+        "color": {"value": "{haarlem.color.grey.60.value}"}
+      }
+    }
+  }
+}

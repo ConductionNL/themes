@@ -1,9 +1,9 @@
 {
   "utrecht": {
     "form-input": {
-      "background-color": { "value": "transparent" },
-      "color": { "value": "{haarlem.color.grey.80.value}" },
-      "border-color": { "value": "{haarlem.color.blue.20.value}" },
+      "background-color": { "value": "{haarlem.color.white.20.value}" },
+      "color": { "value": "{haarlem.color.black.20.value}" },
+      "border-color": { "value": "0" },
       "border-width": { "value": "0" },
       "font-size": { "value": "16px" },
       "font-weight": { "value": "600" },

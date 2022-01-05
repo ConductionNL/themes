@@ -2,10 +2,10 @@
   "utrecht": {
     "breadcrumb": {
       "__link": {
-        "color": { "value": "{haarlem.color.blue.20.value}" },
-        "text-decoration": { "value": "none" },
+        "color": { "value": "{haarlem.color.white.20.value}" },
         "hover": {
-          "color": { "value": "{haarlem.color.grey.80.value}" }
+          "color": { "value": "{haarlem.color.white.20.value}" },
+          "text-decoration": { "value": "none" }
         }
       }
     }

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "author": "Community for NL Design System",
-  "description": "NL Design System design tokens for Gemeente Almere",
+  "description": "Conduction directory - NL Design System design tokens",
   "website": "https://www.almere.nl",
   "keywords": [
     "nl-design-system"

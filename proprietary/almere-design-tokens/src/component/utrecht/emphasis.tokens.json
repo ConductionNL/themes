@@ -5,14 +5,6 @@
         "font-weight": {
           "value": "500"
         }
-      },
-      "background-color": {
-        "value": "{almere.color.grey.40.value}"
-      }
-    },
-    "hover": {
-      "background-color": {
-        "value": "{almere.color.black.20.value}"
       }
     }
   }

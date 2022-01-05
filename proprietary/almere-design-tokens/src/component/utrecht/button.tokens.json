@@ -8,13 +8,14 @@
         "value": "0"
       },
       "border-radius": {
-        "value": "0"
+        "value": "4px"
       },
       "color": {
         "value": "{almere.color.black.20.value}"
       },
+      "font-family": { "value": "{almere.typography.sans-serif.font-family.value}" },
       "font-size": {
-        "value": "16px"
+        "value": "29px"
       },
       "line-height": {
         "value": "26px"

@@ -1,8 +1,0 @@
-{
-  "utrecht": {
-    "form-label": {
-      "color": { "value": "{almere.color.grey.40.value}" },
-      "font-weight": { "value": "600" }
-    }
-  }
-}

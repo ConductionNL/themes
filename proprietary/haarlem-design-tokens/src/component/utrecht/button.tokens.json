@@ -2,7 +2,7 @@
   "utrecht": {
     "button": {
       "background-color": {
-        "value": "{haarlem.color.blue.20.value}"
+        "value": "{haarlem.color.red.20.value}"
       },
       "border-width": {
         "value": "0"
@@ -34,12 +34,12 @@
       },
       "hover": {
         "background-color": {
-          "value": "{haarlem.color.blue.40.value}"
+          "value": "{haarlem.color.red.40.value}"
         }
       },
       "focus": {
         "background-color": {
-          "value": "{haarlem.color.blue.40.value}"
+          "value": "{haarlem.color.red.40.value}"
         }
       }
     }

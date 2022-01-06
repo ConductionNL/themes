@@ -1,7 +1,8 @@
 {
   "utrecht": {
     "heading": {
-      "font-weight": { "value": "400" }
+      "font-weight": { "value": "400" },
+      "font-family": { "value": "Rambla" }
     }
   }
 }

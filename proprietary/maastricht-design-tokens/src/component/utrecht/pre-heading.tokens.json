@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "pre-heading": {
-      "color": { "value": "{maastricht.color.blue.80.value}" }
+      "color": { "value": "{maastricht.color.white.20.value}" }
     }
   }
 }

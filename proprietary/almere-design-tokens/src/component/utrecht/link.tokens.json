@@ -2,14 +2,12 @@
   "utrecht": {
     "link": {
       "color": { "value": "{almere.color.black.20.value}" },
-
+      "text-decoration": { "value": "none" },
       "focus": {
-        "color": { "value": "{almere.color.black.20.value}" },
-        "text-decoration": { "value": "none" }
+        "color": { "value": "{almere.color.black.20.value}" }
       },
       "hover": {
-        "color": { "value": "{almere.color.black.20.value}" },
-        "text-decoration": { "value": "none" }
+        "color": { "value": "{almere.color.black.20.value}" }
       }
     }
   }

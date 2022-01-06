@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "heading-1": {
-      "color": { "value": "{haarlem.color.grey.80.value}" },
+      "color": { "value": "{haarlem.color.blue.40.value}" },
       "font-size": { "value": "2.375rem" },
       "margin-block-end": { "value": "0.5rem" }
     }

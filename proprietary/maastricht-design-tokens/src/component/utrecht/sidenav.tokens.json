@@ -1,9 +1,22 @@
 {
   "utrecht": {
     "sidenav":{
+      "link": {
+        "color": { "value": "{maastricht.color.blue.40.value}" },
+        "text-decoration": { "value": "none" },
+        "focus": {
+          "color": { "value": "{maastricht.color.blue.40.value}" },
+          "text-decoration": { "value": "none" }
+        },
+        "hover": {
+          "color": { "value": "{maastricht.color.blue.40.value}" },
+          "text-decoration": { "value": "none" }
+        }
+      },
       "border-width": { "value": "0" },
+      "background-color": { "value": "{maastricht.color.blue.80.value}" },
       "border-radius": { "value": ".125rem" },
-      "color": { "value": "{maastricht.color.blue.60.value}" },
+      "color": { "value": "{maastricht.color.white.20.value}" },
       "margin-block-end": { "value": "0.5rem" },
       "font-size": { "value": "1.125rem" },
       "font-weight": { "value": "600" },
@@ -11,7 +24,8 @@
       "padding-block-start": { "value": ".84rem" },
       "padding-block-end": { "value": ".84rem" },
       "padding-inline-start": { "value": "2.14rem" },
-      "padding-inline-end": { "value": "2.14rem" }
+      "padding-inline-end": { "value": "2.14rem" },
+      "font-family": { "value": "{maastricht.typography.sans-serif.font-family.value}" }
     }
   }
 }

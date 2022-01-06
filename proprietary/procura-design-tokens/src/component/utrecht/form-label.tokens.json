@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "form-label": {
-      "color": { "value": "{procura.color.grey.20.value}" },
+      "color": { "value": "{procura.color.black.20.value}" },
       "font-weight": { "value": "600" }
     }
   }

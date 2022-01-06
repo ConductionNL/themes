@@ -13,7 +13,20 @@
       "padding-block-end": { "value": "8px" },
       "padding-inline-start": { "value": "0" },
       "padding-inline-end": { "value": "0" },
-      "line-height": { "value": "26px" }
+      "line-height": { "value": "26px" },
+      "link": {
+        "color": { "value": "{procura.color.black.20.value}" },
+        "text-decoration": { "value": "none" },
+        "focus": {
+          "color": { "value": "{procura.color.black.40.value}" },
+          "text-decoration": { "value": "none" }
+        },
+        "hover": {
+          "color": { "value": "{procura.color.black.20.value}" },
+          "text-decoration": { "value": "none" }
+        }
+      }
+
     }
   }
 }

@@ -1,7 +1,6 @@
 {
   "utrecht": {
     "heading-2": {
-      "color": { "value": "{simgroep.color.blue.20.value}" },
       "font-size": { "value": "2.25rem" },
       "margin-block-end": { "value": "0.5rem" }
     }

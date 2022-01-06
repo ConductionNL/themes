@@ -3,7 +3,7 @@
     "typography": {
       "sans-serif": {
         "font-family": {
-          "value": "\"Arial\", sans-serif"
+          "value": "Rambla,Arial,sans-serif"
         }
       },
       "scale": {

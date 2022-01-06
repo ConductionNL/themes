@@ -3,9 +3,9 @@
     "sidenav":{
       "border-width": { "value": "0" },
       "border-radius": { "value": ".125rem" },
-      "background-color": { "value": "{rotterdam.color.white.20.value}" },
+      "background-color": { "value": "{rotterdam.color.grey.60.value}" },
       "margin-block-end": { "value": "0.5rem" },
-      "font-size": { "value": "16px" },
+      "font-size": { "value": "14px" },
       "font-weight": { "value": "300" },
       "min-inline-size": { "value": "250px" },
       "padding-block-start": { "value": ".84rem" },
@@ -13,13 +13,13 @@
       "padding-inline-start": { "value": "2.14rem" },
       "padding-inline-end": { "value": "2.14rem" },
       "link": {
-        "color": { "value": "{rotterdam.color.green.20.value}" },
+        "color": { "value": "{rotterdam.color.white.20.value}" },
         "text-decoration": { "value": "none" },
         "focus": {
-          "color": { "value": "{rotterdam.color.green.20.value}" }
+          "color": { "value": "{rotterdam.color.white.20.value}" }
         },
         "hover": {
-          "color": { "value": "{rotterdam.color.green.20.value}" }
+          "color": { "value": "{rotterdam.color.white.20.value}" }
 
         }
       }

@@ -3,7 +3,7 @@
     "typography": {
       "sans-serif": {
         "font-family": {
-          "value": "\"Merriweather Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+          "value": "Merriweather Sans"
         }
       },
       "scale": {

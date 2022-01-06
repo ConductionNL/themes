@@ -3,7 +3,7 @@
     "typography": {
       "sans-serif": {
         "font-family": {
-          "value": "\"Open Sans\", sans-serif"
+          "value": "Open Sans"
         }
       },
       "scale": {

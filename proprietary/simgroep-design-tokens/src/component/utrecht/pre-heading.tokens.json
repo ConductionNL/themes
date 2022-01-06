@@ -1,7 +1,7 @@
 {
   "utrecht": {
     "pre-heading": {
-      "color":  { "value": "{simgroep.color.blue.40.value}" }
+      "color":  { "value": "{simgroep.color.white.20.value}" }
     }
   }
 }

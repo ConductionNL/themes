@@ -3,7 +3,7 @@
     "sidenav":{
       "border-width": { "value": "0" },
       "border-radius": { "value": ".125rem" },
-      "color": { "value": "{almere.color.white.20.value}" },
+      "color": { "value": "{almere.color.black.20.value}" },
       "margin-block-end": { "value": "0.5rem" },
       "font-size": { "value": "1.7rem" },
       "font-weight": { "value": "600" },
@@ -13,10 +13,12 @@
       "padding-inline-start": { "value": "2.14rem" },
       "padding-inline-end": { "value": "2.14rem" },
       "focus": {
-        "color": { "value": "{almere.color.Oranje.20.value}" }
+        "color": { "value": "{almere.color.Oranje.20.value}" },
+        "text-decoration": { "value": "none" }
       },
       "hover": {
-        "color": { "value": "{almere.color.Oranje.20.value}" }
+        "color": { "value": "{almere.color.Oranje.20.value}" },
+        "text-decoration": { "value": "none" }
       }
     }
   }

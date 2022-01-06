@@ -18,7 +18,7 @@
         "border-color": { "value": "{conduction.color.grey.20.value}" }
       },
       "focus": {
-        "border-color": { "value": "{conduction.color.blue.40.value}" }
+        "border-color": { "value": "{conduction.color.blue.20.value}" }
       }
     }
   }

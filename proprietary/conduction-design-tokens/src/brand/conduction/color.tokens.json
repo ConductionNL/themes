@@ -3,33 +3,21 @@
     "color": {
       "blue": {
         "20": {
-          "value": "#1269DB"
-        },
-        "40": {
-          "value": "#2C3E50"
-        },
-        "60": {
-          "value": "#2D3D4F"
+          "value": "#4376FC"
         }
       },
       "white": {
         "20": {
           "value": "#FFFFFF"
-        },
-        "40": {
-          "value": "#FAFAFA"
         }
       },
       "grey": {
         "20": {
-          "value": "#698097"
+          "value": "#F4F5F9"
         }
       },
       "black": {
         "20": {
-          "value": "#121212"
-        },
-        "40": {
           "value": "#000000"
         }
       }

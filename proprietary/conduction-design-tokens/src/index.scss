@@ -4,4 +4,8 @@
  * All rights reserved
  */
 
-@import "./responsive";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+
+@import url("./design-tokens.css");
+@import "responsive";

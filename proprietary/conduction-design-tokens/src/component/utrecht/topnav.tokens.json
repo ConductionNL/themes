@@ -6,7 +6,8 @@
       },
       "link": {
         "color": { "value": "{conduction.color.white.20.value}" }
-      }
+      },
+      "font-family": { "value": "{conduction.typography.sans-serif.font-family.value}" }
     }
   }
 }

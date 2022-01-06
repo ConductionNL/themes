@@ -3,7 +3,7 @@
     "typography": {
       "sans-serif": {
         "font-family": {
-          "value": "Lato, sans-serif"
+          "value": "'Noto Sans', sans-serif"
         }
       },
       "scale": {

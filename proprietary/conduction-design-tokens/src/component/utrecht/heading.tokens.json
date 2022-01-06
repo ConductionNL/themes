@@ -1,6 +1,7 @@
 {
   "utrecht": {
     "heading": {
+      "font-family" : {"value" : "'Aldrich', sans-serif"},
       "font-weight": { "value": "400" }
     }
   }

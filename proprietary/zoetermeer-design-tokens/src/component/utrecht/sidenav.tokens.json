@@ -1,17 +1,57 @@
 {
   "utrecht": {
-    "sidenav":{
-      "border-width": { "value": "0" },
-      "border-radius": { "value": ".125rem" },
-      "color": { "value": "{zoetermeer.color.blue.20.value}" },
+    "sidenav": {
+      "border-width": {"value": "0"},
+      "border-radius": {"value": ".125rem" },
       "margin-block-end": { "value": "0.5rem" },
-      "font-size": { "value": "1.125rem" },
-      "font-weight": { "value": "600" },
-      "min-inline-size": { "value": "250px" },
-      "padding-block-start": { "value": ".84rem" },
-      "padding-block-end": { "value": ".84rem" },
-      "padding-inline-start": { "value": "2.14rem" },
-      "padding-inline-end": { "value": "2.14rem" }
+      "font-size": {"value": "1.125rem" },
+      "font-weight": {"value": "600"
+      },
+      "min-inline-size": {
+        "value": "250px"
+      },
+      "padding-block-start": {
+        "value": ".84rem"
+      },
+      "padding-block-end": {
+        "value": ".84rem"
+      },
+      "padding-inline-start": {
+        "value": "2.14rem"
+      },
+      "padding-inline-end": {
+        "value": "2.14rem"
+      },
+      "background-color": {
+        "value": "{zoetermeer.color.white.20.value}"
+      },
+      "color": {
+        "value": "{zoetermeer.color.blue.20.value}"
+      },
+      "link": {
+        "color": {
+          "value": "{zoetermeer.color.white.20.value}"
+        },
+        "text-decoration": {
+          "value": "none"
+        },
+        "focus": {
+          "color": {
+            "value": "{zoetermeer.color.white.20.value}"
+          },
+          "text-decoration": {
+            "value": "none"
+          },
+          "hover": {
+            "color": {
+              "value": "{zoetermeer.color.white.20.value}"
+            },
+            "text-decoration": {
+              "value": "none"
+            }
+          }
+        }
+      }
     }
   }
 }

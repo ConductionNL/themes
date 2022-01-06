@@ -3,7 +3,8 @@
     "document": {
       "color": { "value": "{zoetermeer.color.black.20.value}" },
       "font-size": { "value": "14px" },
-      "line-height": { "value": "1.42857143" }
+      "line-height": { "value": "1.42857143" },
+      "font-family": { "value": "{zoetermeer.typography.sans-serif.font-family.value}" }
     }
   }
 }

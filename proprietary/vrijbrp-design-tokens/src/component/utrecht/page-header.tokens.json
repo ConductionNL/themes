@@ -1,8 +1,8 @@
 {
   "utrecht": {
     "page-header": {
-      "background-color": { "value": "{vrijbrp.color.white.20.value}" },
-      "color": { "value": "{vrijbrp.color.blue.60.value}" },
+      "background-color": { "value": "{vrijbrp.color.blue.20.value}" },
+      "color": { "value": "{vrijbrp.color.white.20.value}" },
       "padding-block-start": { "value": "2em" },
       "padding-block-end": { "value": "4em" }
     }

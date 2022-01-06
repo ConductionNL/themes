@@ -1,8 +1,11 @@
 {
   "utrecht": {
     "form-label": {
-      "color": { "value": "{conduction.color.grey.20.value}" },
-      "font-weight": { "value": "600" }
+      "color": { "value": "{conduction.color.white.20.value}" },
+      "font-weight": { "value": "700" },
+      "text-align":{ "value": "left" },
+      "font-size": {"value": "12px"},
+      "font-family": {"value": "inherit"}
     }
   }
 }

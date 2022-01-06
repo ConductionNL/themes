@@ -2,11 +2,11 @@
   "utrecht": {
     "form-input": {
       "background-color": { "value": "transparent" },
-      "color": { "value": "{utrecht.document.color.value}" },
-      "border-color": { "value": "{conduction.color.blue.20.value}" },
-      "border-width": { "value": "0" },
+      "color": { "value": "{conduction.color.black.20.value}" },
+      "border-top-width":  { "value": "2px" },
       "font-size": { "value": "16px" },
-      "font-weight": { "value": "600" },
+      "font-weight": { "value": "400" },
+      "border":  { "value": "round-large" },
       "padding-block-start": { "value": ".55rem" },
       "padding-block-end": { "value": ".3rem" },
       "padding-inline-start": { "value": "0" },

@@ -1,9 +1,7 @@
 {
   "utrecht": {
     "page": {
-      "background-color": {
-        "value": "F5FaFD"
-      }
+      "background-color": { "value": "{demodam.color.white.40.value}" }
     }
   }
 }

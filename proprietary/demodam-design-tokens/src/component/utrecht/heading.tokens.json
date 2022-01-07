@@ -1,6 +1,7 @@
 {
   "utrecht": {
     "heading": {
+      "color": { "value": "{demodam.color.grey.80.value}" },
       "font-weight": { "value": "400" }
     }
   }

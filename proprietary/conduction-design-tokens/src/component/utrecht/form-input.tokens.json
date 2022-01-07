@@ -13,12 +13,6 @@
       "padding-inline-end": { "value": "0" },
       "placeholder": {
         "color": { "value": "{conduction.color.grey.20.value}" }
-      },
-      "disabled": {
-        "border-color": { "value": "{conduction.color.grey.20.value}" }
-      },
-      "focus": {
-        "border-color": { "value": "{conduction.color.blue.20.value}" }
       }
     }
   }

@@ -7,7 +7,8 @@
       "padding-block-start": {"value": "6px"},
       "padding-block-end": {"value": "6px"},
       "padding-inline-start": {"value": "6px"},
-      "padding-inline-end": {"value": "6px"}
+      "padding-inline-end": {"value": "6px"},
+      "font-weight": { "value": "400" }
     }
   }
 }

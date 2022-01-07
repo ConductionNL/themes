@@ -1,0 +1,14 @@
+{
+  "utrecht": {
+    "topnav": {
+      "list": {
+        "background-color": { "value": "{demodam.color.green.20.value}" }
+      },
+      "link": {
+        "color": { "value": "{demodam.color.black.20.value}" },
+        "text-decoration": { "value": "none" }
+      },
+      "font-family": { "value": "{demodam.typography.sans-serif.font-family.value}" }
+    }
+  }
+}

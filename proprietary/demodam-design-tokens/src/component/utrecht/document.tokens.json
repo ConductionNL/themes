@@ -2,7 +2,7 @@
   "utrecht": {
     "document": {
       "background-color": { "value": "white" },
-      "color": { "value": "#212121" },
+      "color":{ "value": "{demodam.color.black.20.value}" },
       "font-family": { "value": "{demodam.typography.sans-serif.font-family.value}" },
       "font-size": { "value": "16px" },
       "font-weight": { "value": "300" },

@@ -13,15 +13,22 @@
       "padding-block-end": { "value": ".84rem" },
       "padding-inline-start": { "value": "2.14rem" },
       "padding-inline-end": { "value": "2.14rem" },
-      "link": {
-        "color": { "value": "{simgroep.color.blue.40.value}" },
-        "focus": {
+      "__list": {
+        "list-style": {"value":  "none"},
+        "padding-block-start": { "value": "0" },
+        "padding-block-end": { "value": "0" },
+        "padding-inline-start": { "value": "0" },
+        "padding-inline-end": { "value": "0" },
+        "__link": {
           "color": { "value": "{simgroep.color.blue.40.value}" },
-          "text-decoration": { "value": "none" }
-        },
-        "hover": {
-          "color": { "value": "{simgroep.color.blue.40.value}" },
-          "text-decoration": { "value": "none" }
+          "focus": {
+            "color": { "value": "{simgroep.color.blue.40.value}" },
+            "text-decoration": { "value": "none" }
+          },
+          "hover": {
+            "color": { "value": "{simgroep.color.blue.40.value}" },
+            "text-decoration": { "value": "none" }
+          }
         }
       }
     }
